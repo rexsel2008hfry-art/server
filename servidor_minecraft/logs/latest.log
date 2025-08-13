@@ -385,3 +385,7 @@ java.net.http.HttpTimeoutException: request timed out
 [13Aug2025 20:35:47.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
 [13Aug2025 20:38:47.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
 [13Aug2025 20:38:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[13Aug2025 20:46:50.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> despues que metamos los demas mods vamos a explorar para ver donde va hacer la casita ?
+[13Aug2025 20:50:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a buscar un mod
+[13Aug2025 20:50:31.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[13Aug2025 20:50:31.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
