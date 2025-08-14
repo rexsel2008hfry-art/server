@@ -781,3 +781,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 07:02:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
 [14Aug2025 07:02:07.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
 [14Aug2025 07:02:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Terrible Fortress]
+[14Aug2025 07:03:53.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Into Fire]
+[14Aug2025 07:05:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aguas
+[14Aug2025 07:05:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca hay un mob que fastidia y empuja mucho
+[14Aug2025 07:05:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mas bien por aca
+[14Aug2025 07:05:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de esos me mato
+[14Aug2025 07:07:15.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel burned to death
+[14Aug2025 07:07:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Hammer Time!]
+[14Aug2025 07:07:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 07:08:58.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[14Aug2025 07:08:58.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 07:09:38.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7502b969
+[14Aug2025 07:09:38.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:43137] logged in with entity id 103528 at (-4.600951948388672, 67.0, 174.6845569829813)
+[14Aug2025 07:09:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[14Aug2025 07:09:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rayos equis
+[14Aug2025 07:10:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xray-rayos equis
