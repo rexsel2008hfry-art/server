@@ -376,3 +376,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 04:15:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
 [14Aug2025 04:17:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Tip of the Spear]
 [14Aug2025 04:18:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Will it Come Back?]
+[14Aug2025 04:23:01.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[14Aug2025 04:23:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 04:23:14.841] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cf4efbc
+[14Aug2025 04:23:14.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:58115] logged in with entity id 31566 at (31.515549711546523, 63.0, 1712.699999988079)
+[14Aug2025 04:23:14.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[14Aug2025 04:23:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a mi hazme una minigun
+[14Aug2025 04:23:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
+[14Aug2025 04:23:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Crops of the Wild]
+[14Aug2025 04:24:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> consiguiendolo
+[14Aug2025 04:25:22.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[14Aug2025 04:25:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que imbechil tilin
+[14Aug2025 04:25:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tilin tienes un bot en tu chat del twich
+[14Aug2025 04:26:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo :c
+[14Aug2025 04:27:01.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que me encontre una mineshaft
+[14Aug2025 04:27:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> te lo juro, gracias al mapa
+[14Aug2025 04:27:28.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel was kicked for floating too long!
+[14Aug2025 04:27:28.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Flying is not enabled on this server
+[14Aug2025 04:27:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EMILIOSIFUENTES: el eduardo es un putazo
+[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elikernomamahuev: el eduardo es un putazo
+[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Eduardo171: el eduardo es un putazo
+[14Aug2025 04:29:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to tiliaso_01: el eduardo es un putazo
+[14Aug2025 04:29:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Aug2025 04:29:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDD<--[HERE]
+[14Aug2025 04:29:29.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a shinga
+[14Aug2025 04:29:30.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ca6758a
+[14Aug2025 04:29:30.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:43457] logged in with entity id 35631 at (340.0474514563073, 64.25220334025373, 1666.261309881356)
+[14Aug2025 04:29:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:29:42.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel was kicked for floating too long!
+[14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Flying is not enabled on this server
+[14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game

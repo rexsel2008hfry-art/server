@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-08-14 04:16:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-08-14 03:01:28 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-14 04:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-14 01:59:14 +0000"
@@ -128,6 +140,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-14 04:16:30 +0000"
     },
     "done": true
   },
@@ -273,7 +291,8 @@
     "criteria": {
       "sweet_berries": "2025-08-14 02:09:48 +0000",
       "baked_potato": "2025-08-14 02:30:59 +0000",
-      "potato": "2025-08-14 02:04:01 +0000"
+      "potato": "2025-08-14 02:04:01 +0000",
+      "bread": "2025-08-14 04:19:00 +0000"
     },
     "done": false
   },
@@ -358,6 +377,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-14 04:16:30 +0000"
     },
     "done": true
   },
@@ -674,6 +699,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-08-14 04:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-14 02:03:58 +0000"
@@ -826,6 +857,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-08-14 04:23:38 +0000",
       "sweet_berries": "2025-08-14 02:09:09 +0000",
       "sugar_cane": "2025-08-14 02:01:28 +0000",
       "potato": "2025-08-14 02:03:59 +0000"
@@ -985,6 +1017,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-08-14 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-08-14 04:23:36 +0000"
     },
     "done": true
   },
