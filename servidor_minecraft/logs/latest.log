@@ -470,3 +470,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 04:48:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Cut Above the Rest]
 [14Aug2025 04:49:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
 [14Aug2025 04:50:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> verga, se me olvido mi gato
+[14Aug2025 04:50:50.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SpiderChaserHallucination2Entity[''/41070, l='ServerLevel[world]', x=11.40, y=52.19, z=1712.40] died:  suffocated in a wall
+[14Aug2025 04:52:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> viene con final feliz?
+[14Aug2025 04:56:52.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
+[14Aug2025 04:56:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[14Aug2025 04:57:01.639] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54b5b1eb
+[14Aug2025 04:57:01.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:38189] logged in with entity id 54766 at (-240.1830692828137, 231.0, 2051.9135665447716)
+[14Aug2025 04:57:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[14Aug2025 04:58:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ouchet, aparecio una araña de esas grandes
+[14Aug2025 04:58:23.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
+[14Aug2025 04:58:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[14Aug2025 04:59:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a miar
+[14Aug2025 05:00:02.935] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ba0b4b
+[14Aug2025 05:00:02.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:33771] logged in with entity id 55509 at (-241.69999998807907, 231.0, 2055.590463479867)
+[14Aug2025 05:00:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
