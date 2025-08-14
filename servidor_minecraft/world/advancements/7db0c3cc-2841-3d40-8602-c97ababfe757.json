@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-08-14 08:59:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-14 05:35:19 +0000"
