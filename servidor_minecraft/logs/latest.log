@@ -504,3 +504,175 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 05:27:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by tiliaso_01
 [14Aug2025 05:27:45.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to tiliaso_01]
 [14Aug2025 05:29:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Will it Come Back?]
+[14Aug2025 05:31:18.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/66693, l='ServerLevel[world]', x=-85.50, y=49.00, z=2095.50]
+[14Aug2025 05:31:18.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/66695, l='ServerLevel[world]', x=-88.50, y=49.00, z=2096.50]
+[14Aug2025 05:32:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was blown up by Creeper
+[14Aug2025 05:32:33.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
+[14Aug2025 05:32:33.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
+[14Aug2025 05:32:34.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
+[14Aug2025 05:32:34.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
+[14Aug2025 05:32:34.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
+[14Aug2025 05:32:34.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
+[14Aug2025 05:32:35.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
+[14Aug2025 05:32:35.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
+[14Aug2025 05:32:36.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
+[14Aug2025 05:32:37.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
+[14Aug2025 05:32:37.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
+[14Aug2025 05:32:49.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
+[14Aug2025 05:32:49.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
+[14Aug2025 05:32:50.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
+[14Aug2025 05:32:52.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
+[14Aug2025 05:32:52.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
+[14Aug2025 05:32:54.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
+[14Aug2025 05:32:54.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
+[14Aug2025 05:32:54.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
+[14Aug2025 05:32:54.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
+[14Aug2025 05:32:54.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:54.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:54.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:54.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:55.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:57.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:58.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:58.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:58.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:58.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:58.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:59.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:59.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:59.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:32:59.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:32:59.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
+[14Aug2025 05:33:00.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
+[14Aug2025 05:33:00.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[14Aug2025 05:33:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell out of the world
+[14Aug2025 05:33:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Killed tiliaso_01]
+[14Aug2025 05:33:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[14Aug2025 05:33:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Diamonds!]
+[14Aug2025 05:34:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> eu
+[14Aug2025 05:35:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Spider Obstructer
+[14Aug2025 05:35:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Tip of the Spear]
+[14Aug2025 05:35:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Will it Come Back?]
+[14Aug2025 05:36:34.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by elikernomamahuev
+[14Aug2025 05:36:37.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
+[14Aug2025 05:36:37.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
+[14Aug2025 05:36:37.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
+[14Aug2025 05:36:37.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
+[14Aug2025 05:36:37.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
+[14Aug2025 05:36:38.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
+[14Aug2025 05:36:38.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
+[14Aug2025 05:36:38.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
+[14Aug2025 05:36:41.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:41.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:42.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:42.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:42.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:42.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:43.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:43.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:43.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:43.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:44.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:44.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:44.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
+[14Aug2025 05:36:44.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
+[14Aug2025 05:36:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to Eduardo171]
+[14Aug2025 05:42:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to Eduardo171]
+[14Aug2025 05:42:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 05:42:55.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
+[14Aug2025 05:42:55.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
+[14Aug2025 05:42:55.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[14Aug2025 05:43:01.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4045afb1
+[14Aug2025 05:43:01.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:47673] logged in with entity id 73496 at (-244.72393978081405, 88.23527968815392, 2040.7667238788204)
+[14Aug2025 05:43:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[14Aug2025 05:43:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has completed the challenge [Free Willy]
+[14Aug2025 05:43:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev withered away whilst fighting Spider Recluse
+[14Aug2025 05:44:07.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp
+[14Aug2025 05:44:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Tip of the Spear]
+[14Aug2025 05:44:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp?
+[14Aug2025 05:44:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[14Aug2025 05:44:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 05:44:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y mi pico?
+[14Aug2025 05:44:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y mi hacha?
+[14Aug2025 05:45:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set spawn point to -405, 66, 2163 [0.0] in minecraft:overworld for tiliaso_01]
+[14Aug2025 05:45:15.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pasa madera we
+[14Aug2025 05:45:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no tienes hierro para hacerme un pico
+[14Aug2025 05:45:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ?
+[14Aug2025 05:45:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> gracis
+[14Aug2025 05:46:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was frozen to death by Frostmaw
+[14Aug2025 05:46:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me dejaste tu basure rexsel
+[14Aug2025 05:46:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[14Aug2025 05:47:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was frozen to death by Frostmaw
+[14Aug2025 05:47:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 05:48:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
+[14Aug2025 05:48:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
+[14Aug2025 05:48:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 05:48:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Spider Lunger
+[14Aug2025 05:48:58.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=115, z=5}
+[14Aug2025 05:48:59.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
+[14Aug2025 05:48:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
+[14Aug2025 05:49:00.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
+[14Aug2025 05:49:01.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
+[14Aug2025 05:49:02.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
+[14Aug2025 05:49:03.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
+[14Aug2025 05:49:03.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
+[14Aug2025 05:49:04.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
+[14Aug2025 05:49:05.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
+[14Aug2025 05:49:06.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
+[14Aug2025 05:49:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[14Aug2025 05:49:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Spider Lunger
+[14Aug2025 05:49:14.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 05:49:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Spider Lunger
+[14Aug2025 05:49:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:24.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
+[14Aug2025 05:49:27.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 05:49:28.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
+[14Aug2025 05:49:31.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:32.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:33.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:33.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:34.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:35.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:36.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:36.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:36.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
+[14Aug2025 05:49:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 05:49:43.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
+[14Aug2025 05:49:43.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:44.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
+[14Aug2025 05:49:56.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:57.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
+[14Aug2025 05:49:57.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=116, z=4}
+[14Aug2025 05:50:09.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[14Aug2025 05:50:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
+[14Aug2025 05:50:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has completed the challenge [Rude Awakening]
+[14Aug2025 05:51:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> exploremos junstos pexsel
+[14Aug2025 05:51:49.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[14Aug2025 05:51:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 05:51:53.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[14Aug2025 05:51:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 05:52:28.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Hot Stuff]
+[14Aug2025 05:52:57.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a24100c
+[14Aug2025 05:52:57.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:54601] logged in with entity id 80658 at (-54.218856041436936, -50.0, 1639.9726214677119)
+[14Aug2025 05:52:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 05:54:28.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
+[14Aug2025 05:54:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[14Aug2025 05:56:17.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[14Aug2025 05:56:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> noveo
+[14Aug2025 05:56:39.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tienes antorchas?
+[14Aug2025 05:56:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> carbon?
+[14Aug2025 05:57:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 05:57:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp
+[14Aug2025 05:57:26.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> espera
+[14Aug2025 05:57:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aguanta un poco
+[14Aug2025 05:57:34.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[14Aug2025 05:57:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> olvidalo, dale tp
+[14Aug2025 05:58:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 05:58:05.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[14Aug2025 05:58:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> gracias pes
+[14Aug2025 05:59:22.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que la tienes a sus pies edu
+[14Aug2025 05:59:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si we
+[14Aug2025 05:59:39.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven
+[14Aug2025 05:59:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[14Aug2025 05:59:50.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 05:59:56.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo andesita

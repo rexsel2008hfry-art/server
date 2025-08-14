@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
@@ -152,6 +158,18 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-14 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -170,6 +188,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-14 02:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -245,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 02:30:48 +0000"
@@ -266,6 +296,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-14 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -320,6 +356,12 @@
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-08-14 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -386,6 +428,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-14 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -458,6 +506,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -536,6 +590,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -665,6 +725,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-14 02:24:01 +0000"
@@ -789,6 +855,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-14 03:26:58 +0000",
       "minecraft:spider": "2025-08-14 03:02:26 +0000",
+      "minecraft:creeper": "2025-08-14 05:32:00 +0000",
       "minecraft:enderman": "2025-08-14 03:03:24 +0000",
       "minecraft:stray": "2025-08-14 03:27:24 +0000",
       "minecraft:zombie": "2025-08-14 03:08:52 +0000"
@@ -852,6 +919,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -1047,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
@@ -1173,6 +1252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-14 05:09:01 +0000"
@@ -1188,6 +1273,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-14 02:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-14 05:43:53 +0000"
     },
     "done": true
   },
@@ -1212,6 +1303,18 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-08-14 02:30:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -1254,6 +1357,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -1386,6 +1495,24 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-14 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -1527,6 +1654,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-08-14 05:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
@@ -1553,7 +1686,8 @@
       "minecraft:deep_cold_ocean": "2025-08-14 02:45:27 +0000",
       "minecraft:frozen_ocean": "2025-08-14 02:47:52 +0000",
       "minecraft:deep_frozen_ocean": "2025-08-14 04:46:36 +0000",
-      "minecraft:snowy_beach": "2025-08-14 02:46:10 +0000"
+      "minecraft:snowy_beach": "2025-08-14 02:46:10 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-14 05:45:58 +0000"
     },
     "done": false
   },
@@ -1668,6 +1802,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -1833,9 +1973,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-14 02:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -1887,6 +2039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
@@ -1932,6 +2090,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-14 02:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2001,6 +2165,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
@@ -2034,6 +2204,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2112,6 +2288,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2261,6 +2443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-14 02:27:19 +0000"
@@ -2303,6 +2491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-08-14 03:45:22 +0000"
@@ -2318,6 +2512,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2477,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-08-14 02:23:04 +0000"
@@ -2486,6 +2692,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 02:30:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2585,6 +2797,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
@@ -2633,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
@@ -2672,6 +2896,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2738,6 +2974,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -2909,6 +3157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-14 04:44:46 +0000"
@@ -2935,6 +3189,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 02:25:23 +0000"
@@ -2953,9 +3213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -2980,6 +3252,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -3097,6 +3375,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 03:00:04 +0000"
@@ -3148,6 +3432,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-14 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
     },
     "done": true
   },
@@ -3235,6 +3525,24 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-08-14 05:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
@@ -3286,6 +3594,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-14 02:27:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-08-14 05:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -3367,6 +3687,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-08-14 02:22:57 +0000"
@@ -3439,9 +3765,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-14 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
@@ -3496,6 +3834,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2025-08-14 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 05:35:21 +0000"
     },
     "done": true
   },
