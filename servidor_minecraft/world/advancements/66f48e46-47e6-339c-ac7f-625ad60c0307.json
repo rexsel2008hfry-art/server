@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-08-14 04:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-08-14 00:34:42 +0000"
@@ -1970,6 +1976,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-08-14 04:39:37 +0000"
     },
     "done": true
   },
@@ -3386,6 +3398,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-08-13 22:44:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-14 04:40:00 +0000"
     },
     "done": true
   },

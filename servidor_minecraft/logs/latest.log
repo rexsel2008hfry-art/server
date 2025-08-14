@@ -407,3 +407,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 04:29:42.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel was kicked for floating too long!
 [14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Flying is not enabled on this server
 [14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:30:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> diganle que se murio para ver si se la cree
+[14Aug2025 04:31:02.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74c222a4
+[14Aug2025 04:31:02.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:39281] logged in with entity id 36748 at (340.0474514563073, 64.25220334025373, 1666.261309881356)
+[14Aug2025 04:31:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:31:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
+[14Aug2025 04:31:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
+[14Aug2025 04:31:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
+[14Aug2025 04:31:34.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[14Aug2025 04:31:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:31:44.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@768a8f90
+[14Aug2025 04:31:45.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:58913] logged in with entity id 37185 at (62.3673608990558, 90.0, 1656.2091839773504)
+[14Aug2025 04:31:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:33:00.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[14Aug2025 04:33:00.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:33:28.754] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@426506e3
+[14Aug2025 04:33:28.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:47433] logged in with entity id 38018 at (60.69999998807907, 90.0, 1645.5038901967814)
+[14Aug2025 04:33:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:34:13.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[14Aug2025 04:34:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:35:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Eduardo171: por feo
+[14Aug2025 04:35:42.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: por feo
+[14Aug2025 04:35:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 04:35:53.713] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59e435a
+[14Aug2025 04:35:53.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:40401] logged in with entity id 39035 at (61.646827257237995, 97.41999998688698, 1649.3442258715618)
+[14Aug2025 04:35:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:36:02.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5abd0bd7
+[14Aug2025 04:36:02.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:35149] logged in with entity id 39091 at (-31.354444079896933, 17.0, 1674.1077530583918)
+[14Aug2025 04:36:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[14Aug2025 04:36:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> haz de dia pexsel
+[14Aug2025 04:37:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> apura prexsel
+[14Aug2025 04:38:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Enderman
+[14Aug2025 04:39:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Enderman
+[14Aug2025 04:39:59.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:40:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Mine? Mine? Mine?]
+[14Aug2025 04:40:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to EMILIOSIFUENTES]
+[14Aug2025 04:40:55.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:40:58.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:41:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo estoy abajo
+[14Aug2025 04:42:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aver pexsel, mira abajo
+[14Aug2025 04:42:24.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Disconnected
+[14Aug2025 04:42:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[14Aug2025 04:42:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya aplane
+[14Aug2025 04:42:28.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:43:19.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no we
+[14Aug2025 04:43:21.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:43:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me duermo
+[14Aug2025 04:43:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pero mira entra mi casita humilde
+[14Aug2025 04:43:52.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:43:53.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:44:01.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Cut Above the Rest]
+[14Aug2025 04:44:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> entra pes
+[14Aug2025 04:44:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
+[14Aug2025 04:44:05.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yano
+[14Aug2025 04:44:32.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 04:44:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es para mi granjita
+[14Aug2025 04:44:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si quieres te aplano otra cosita
+[14Aug2025 04:46:05.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 5
+[14Aug2025 04:46:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 6
+[14Aug2025 04:46:07.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 7
+[14Aug2025 04:46:09.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 8
+[14Aug2025 04:48:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Cut Above the Rest]
+[14Aug2025 04:49:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
+[14Aug2025 04:50:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> verga, se me olvido mi gato
