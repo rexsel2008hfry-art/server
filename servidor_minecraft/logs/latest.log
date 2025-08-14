@@ -484,3 +484,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 05:00:02.935] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ba0b4b
 [14Aug2025 05:00:02.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:33771] logged in with entity id 55509 at (-241.69999998807907, 231.0, 2055.590463479867)
 [14Aug2025 05:00:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[14Aug2025 05:10:04.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
+[14Aug2025 05:10:04.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
+[14Aug2025 05:10:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[14Aug2025 05:10:14.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c60bee9
+[14Aug2025 05:10:14.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:39133] logged in with entity id 60314 at (-237.48601796805997, 64.1479610792636, 2044.0792716096346)
+[14Aug2025 05:10:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[14Aug2025 05:12:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
+[14Aug2025 05:12:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que poia paso
+[14Aug2025 05:13:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[14Aug2025 05:14:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ta madre, aparte de miar me dio chorrillo
+[14Aug2025 05:17:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 withered away whilst fighting Spider Prowler

@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-08-13 23:37:53 +0000"
@@ -146,6 +152,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
     },
     "done": true
   },
@@ -609,6 +621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 04:33:41 +0000"
@@ -945,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-13 23:37:08 +0000"
@@ -973,6 +997,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-14 00:08:40 +0000",
       "minecraft:creeper": "2025-08-14 00:11:33 +0000",
+      "minecraft:cave_spider": "2025-08-14 05:02:21 +0000",
       "minecraft:enderman": "2025-08-14 04:01:29 +0000",
       "minecraft:zombie": "2025-08-14 00:00:06 +0000"
     },
@@ -1194,6 +1219,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-08-14 00:09:15 +0000"
@@ -1314,6 +1345,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 04:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
     },
     "done": true
   },
@@ -1554,6 +1591,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-14 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-14 05:03:12 +0000"
     },
     "done": true
   },
@@ -1922,6 +1965,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-14 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-14 05:03:12 +0000"
     },
     "done": true
   },

@@ -3161,6 +3161,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-14 05:13:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -3212,6 +3218,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-08-13 22:59:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-14 05:13:49 +0000"
     },
     "done": true
   },
@@ -4224,6 +4236,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-08-14 03:13:14 +0000",
+      "sweet_berries": "2025-08-14 05:09:38 +0000",
       "rice": "2025-08-14 03:12:29 +0000",
       "beetroot": "2025-08-14 03:13:30 +0000",
       "sugar_cane": "2025-08-14 03:09:07 +0000",
