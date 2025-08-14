@@ -359,3 +359,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 03:56:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> del culo
 [14Aug2025 03:57:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=90, z=1637} BlockPos{x=60, y=89, z=1638}
 [14Aug2025 03:59:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y que me das?
+[14Aug2025 04:01:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo me quiero encontras con un oso para ver si lo puedo domesticar
+[14Aug2025 04:02:21.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[14Aug2025 04:02:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 04:03:47.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [We Just Want our Hat Back]
+[14Aug2025 04:03:54.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Bone to Pick]
+[14Aug2025 04:04:57.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fa8ab3b
+[14Aug2025 04:04:57.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:41261] logged in with entity id 21861 at (127.2574081032018, 63.0, 1720.046424607355)
+[14Aug2025 04:04:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 04:06:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es mi casa
+[14Aug2025 04:06:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que haces aca
+[14Aug2025 04:06:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Diamonds!]
+[14Aug2025 04:12:17.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26536, l='ServerLevel[world]', x=-550.50, y=52.00, z=1795.50]
+[14Aug2025 04:14:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es mi casa we
+[14Aug2025 04:14:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pipi
+[14Aug2025 04:15:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
+[14Aug2025 04:17:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Tip of the Spear]
+[14Aug2025 04:18:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Will it Come Back?]
