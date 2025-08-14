@@ -907,3 +907,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 08:22:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
 [14Aug2025 08:27:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Desperate Measures]
 [14Aug2025 08:42:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Pair of Giants]
+[14Aug2025 08:45:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was processed by Crushing Wheels
+[14Aug2025 08:45:33.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[14Aug2025 08:45:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 08:46:02.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74aca8fb
+[14Aug2025 08:46:02.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:49533] logged in with entity id 136748 at (79.49439656026084, 63.661600000411276, 1682.4943760782803)
+[14Aug2025 08:46:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[14Aug2025 08:46:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]

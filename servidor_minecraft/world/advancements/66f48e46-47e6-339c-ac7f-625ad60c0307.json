@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-08-14 08:46:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_rapier": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -827,6 +833,18 @@
     },
     "done": true
   },
+  "create:recipes/food/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-08-14 08:47:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-08-14 08:47:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
@@ -1103,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-14 08:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 00:02:38 +0000"
@@ -1136,6 +1160,12 @@
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-08-14 08:47:41 +0000"
     },
     "done": true
   },
@@ -1699,6 +1729,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-08-14 08:45:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
@@ -1858,6 +1894,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-08-14 08:45:49 +0000"
     },
     "done": true
   },
@@ -2731,6 +2773,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-08-14 08:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-14 00:34:42 +0000"
@@ -3142,6 +3190,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-13 22:59:44 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-14 08:48:32 +0000"
     },
     "done": true
   },
@@ -3962,6 +4016,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-14 08:47:57 +0000"
     },
     "done": true
   },
@@ -5536,6 +5596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-14 08:47:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-08-14 07:48:40 +0000"
@@ -5644,6 +5710,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-08-14 08:47:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-13 23:03:15 +0000"
@@ -5707,6 +5779,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/food/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-08-14 08:47:41 +0000"
     },
     "done": true
   },
