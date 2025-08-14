@@ -3983,6 +3983,12 @@
     },
     "done": true
   },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-08-14 08:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-14 06:51:56 +0000"
@@ -4040,6 +4046,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-14 08:08:36 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-14 08:27:03 +0000"
     },
     "done": true
   },

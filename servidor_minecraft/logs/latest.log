@@ -900,3 +900,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 08:05:56.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ca10c32
 [14Aug2025 08:05:56.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:50779] logged in with entity id 130599 at (82.68689548770561, 63.0, 1682.9033615287765)
 [14Aug2025 08:05:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 08:21:34.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[14Aug2025 08:21:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 08:22:38.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11980544
+[14Aug2025 08:22:38.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:59221] logged in with entity id 132932 at (80.30691354082995, 63.0, 1686.326466645893)
+[14Aug2025 08:22:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 08:27:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Desperate Measures]
