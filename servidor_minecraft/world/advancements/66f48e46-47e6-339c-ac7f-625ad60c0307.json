@@ -1489,6 +1489,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-14 12:29:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-13 23:03:15 +0000"
@@ -5564,6 +5570,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-08-14 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-08-14 12:25:59 +0000"
     },
     "done": true
   },
