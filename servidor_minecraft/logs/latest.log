@@ -922,3 +922,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 09:20:57.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Parrots and the Bats]
 [14Aug2025 09:31:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
 [14Aug2025 09:31:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 09:38:23.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 was kicked for floating too long!
+[14Aug2025 09:38:23.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Flying is not enabled on this server
+[14Aug2025 09:38:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 09:38:57.682] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@646d3296
+[14Aug2025 09:38:57.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:46507] logged in with entity id 150825 at (64.7918625305619, 91.16610926093821, 1644.7073574927135)
+[14Aug2025 09:38:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[14Aug2025 09:39:04.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[14Aug2025 09:39:04.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[14Aug2025 09:39:46.133] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ba33962
+[14Aug2025 09:39:46.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:58841] logged in with entity id 150941 at (64.7918625305619, 91.16610926093821, 1644.7073574927135)
+[14Aug2025 09:39:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
