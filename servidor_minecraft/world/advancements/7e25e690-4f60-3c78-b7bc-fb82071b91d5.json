@@ -1135,6 +1135,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-08-14 06:43:45 +0000",
+      "minecraft:basalt_deltas": "2025-08-14 06:40:08 +0000",
       "minecraft:warped_forest": "2025-08-14 06:36:22 +0000"
     },
     "done": false
@@ -1505,6 +1507,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-08-14 06:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 22:21:03 +0000"
@@ -1775,6 +1783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 04:57:58 +0000"
@@ -1958,6 +1972,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 06:46:02 +0000"
     },
     "done": true
   },
@@ -2597,6 +2617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-13 22:25:50 +0000"
@@ -3005,6 +3031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-08-14 04:16:33 +0000"
@@ -3224,8 +3256,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-14 02:50:39 +0000",
+      "minecraft:magma_cube": "2025-08-14 06:40:21 +0000",
       "minecraft:spider": "2025-08-14 02:52:10 +0000",
       "minecraft:creeper": "2025-08-14 06:14:46 +0000",
+      "minecraft:zombified_piglin": "2025-08-14 06:48:19 +0000",
       "minecraft:cave_spider": "2025-08-14 03:13:44 +0000",
       "minecraft:enderman": "2025-08-13 23:21:16 +0000",
       "minecraft:zombie": "2025-08-13 23:20:05 +0000",
@@ -3629,6 +3663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-14 06:45:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-08-13 21:47:28 +0000"
@@ -3644,6 +3684,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
     },
     "done": true
   },
@@ -4122,6 +4168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-14 06:45:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
@@ -4221,6 +4273,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-13 22:52:06 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-08-14 06:48:10 +0000"
     },
     "done": true
   },
@@ -4572,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-13 22:55:52 +0000"
@@ -4590,9 +4654,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
     },
     "done": true
   },
@@ -4674,6 +4750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 03:07:23 +0000"
@@ -4683,6 +4765,12 @@
   "create:recipes/create.palettes/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:03:18 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-08-14 06:47:51 +0000"
     },
     "done": true
   },
@@ -4839,6 +4927,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-14 00:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-14 06:46:02 +0000"
     },
     "done": true
   },

@@ -1123,7 +1123,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:warped_forest": "2025-08-14 06:36:23 +0000"
+      "minecraft:nether_wastes": "2025-08-14 06:43:42 +0000",
+      "minecraft:warped_forest": "2025-08-14 06:36:23 +0000",
+      "minecraft:basalt_deltas": "2025-08-14 06:40:16 +0000"
     },
     "done": false
   },
@@ -3314,6 +3316,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-14 00:30:42 +0000",
+      "minecraft:magma_cube": "2025-08-14 06:40:01 +0000",
       "minecraft:spider": "2025-08-14 02:06:29 +0000",
       "minecraft:creeper": "2025-08-13 23:20:39 +0000",
       "minecraft:phantom": "2025-08-14 01:27:23 +0000",
@@ -4368,6 +4371,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-13 23:59:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-08-14 06:48:09 +0000"
     },
     "done": true
   },
