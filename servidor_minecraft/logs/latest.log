@@ -339,3 +339,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 03:46:47.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
 [14Aug2025 03:46:50.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
 [14Aug2025 03:46:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[14Aug2025 03:51:53.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 03:52:16.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@191e2ec0
+[14Aug2025 03:52:16.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:55177] logged in with entity id 11921 at (63.51249998807907, 64.05840002059936, 1699.981154027203)
+[14Aug2025 03:52:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[14Aug2025 03:52:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vale verga
+[14Aug2025 03:52:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> alfin
+[14Aug2025 03:53:55.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 03:53:55.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 03:54:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pero es mi cofre
+[14Aug2025 03:55:30.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> has de dia pexsel
+[14Aug2025 03:55:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> edu prestame el cubilete
+[14Aug2025 03:56:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> el cubilete edu
+[14Aug2025 03:56:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
+[14Aug2025 03:56:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> noose
+[14Aug2025 03:56:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ocupas tijeras
+[14Aug2025 03:56:38.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> pvto
+[14Aug2025 03:56:55.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=90, z=1635} BlockPos{x=65, y=89, z=1636}
+[14Aug2025 03:56:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> del culo
+[14Aug2025 03:57:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=90, z=1637} BlockPos{x=60, y=89, z=1638}
+[14Aug2025 03:59:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y que me das?

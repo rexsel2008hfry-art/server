@@ -2249,6 +2249,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-14 03:53:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-08-13 23:44:10 +0000"
@@ -2260,6 +2266,7 @@
       "cooked_porkchop": "2025-08-13 23:32:39 +0000",
       "cooked_mutton": "2025-08-13 23:18:49 +0000",
       "sweet_berries": "2025-08-13 22:22:14 +0000",
+      "baked_potato": "2025-08-14 03:54:02 +0000",
       "potato": "2025-08-14 00:04:08 +0000",
       "rabbit": "2025-08-13 23:17:18 +0000",
       "bread": "2025-08-13 22:44:26 +0000",
@@ -3433,6 +3440,12 @@
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-13 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-14 03:53:55 +0000"
     },
     "done": true
   },

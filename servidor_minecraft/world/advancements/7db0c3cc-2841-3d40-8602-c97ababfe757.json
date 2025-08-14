@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-14 03:53:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-08-13 23:50:19 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-14 03:53:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:01:41 +0000"
@@ -278,6 +290,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-08-13 23:40:44 +0000",
+      "baked_potato": "2025-08-14 03:53:45 +0000",
       "cooked_cod": "2025-08-13 23:57:46 +0000",
       "cooked_salmon": "2025-08-13 23:46:51 +0000"
     },
@@ -352,6 +365,12 @@
   "create:recipes/create.palettes/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:01:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 03:53:43 +0000"
     },
     "done": true
   },
@@ -502,6 +521,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-14 03:48:45 +0000"
     },
     "done": true
   },
@@ -1278,6 +1303,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-14 03:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-13 23:33:03 +0000",
@@ -1439,6 +1470,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-14 03:24:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-14 03:46:08 +0000"
     },
     "done": true
   },

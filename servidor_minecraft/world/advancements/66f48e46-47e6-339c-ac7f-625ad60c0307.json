@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-08-14 03:46:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-14 03:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-13 22:59:44 +0000"
@@ -764,6 +776,12 @@
   "spartanshields:recipes/spartanshields/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -935,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-14 03:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-13 22:28:50 +0000"
@@ -1034,6 +1058,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 00:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -2536,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-08-14 03:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -2751,6 +2787,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-08-14 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-13 23:59:38 +0000"
@@ -2760,6 +2802,12 @@
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -3081,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-08-13 22:44:06 +0000"
@@ -3249,6 +3303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-13 22:28:50 +0000"
@@ -3408,6 +3468,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -3999,6 +4065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-14 03:47:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -4026,6 +4098,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -4110,6 +4188,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_javelin": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
@@ -4371,9 +4455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-14 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-08-14 00:37:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-08-14 03:46:55 +0000"
     },
     "done": true
   },
