@@ -894,3 +894,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 07:57:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
 [14Aug2025 08:01:58.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Brass Age]
 [14Aug2025 08:02:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Bonk!]
+[14Aug2025 08:03:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Hunt and Gather]
+[14Aug2025 08:04:52.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[14Aug2025 08:04:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 08:05:56.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ca10c32
+[14Aug2025 08:05:56.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:50779] logged in with entity id 130599 at (82.68689548770561, 63.0, 1682.9033615287765)
+[14Aug2025 08:05:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 03:19:56 +0000"
@@ -71,9 +77,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-14 08:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-08-13 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-08-14 08:00:15 +0000"
     },
     "done": true
   },
@@ -155,9 +173,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-08-13 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-08-14 08:02:08 +0000"
     },
     "done": true
   },
@@ -236,6 +272,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-08-14 05:33:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-14 08:03:47 +0000"
     },
     "done": true
   },
@@ -437,6 +479,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-08-13 23:37:08 +0000"
@@ -470,6 +518,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-08-14 07:07:17 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-14 08:00:15 +0000"
     },
     "done": true
   },
@@ -593,6 +647,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-14 03:48:45 +0000"
@@ -650,6 +710,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-13 23:37:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
     },
     "done": true
   },
@@ -1122,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-14 08:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-13 23:35:06 +0000"
@@ -1236,6 +1308,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-14 05:03:12 +0000"
@@ -1323,6 +1401,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 04:53:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
@@ -1552,6 +1636,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-08-14 08:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-13 23:37:53 +0000"
@@ -1702,6 +1792,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-08-14 08:03:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-08-13 23:37:08 +0000"
@@ -1717,6 +1813,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-08-14 07:07:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
@@ -1800,9 +1902,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-08-14 08:00:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
@@ -2242,6 +2356,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-08-14 08:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-14 04:08:05 +0000"
@@ -2434,6 +2554,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-08-14 08:01:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-08-14 05:33:56 +0000"
@@ -2449,6 +2575,12 @@
   "create:recipes/create.palettes/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-08-14 04:24:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
     },
     "done": true
   },
@@ -2557,6 +2689,18 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-14 08:03:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
     },
     "done": true
   },
@@ -2764,6 +2908,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-14 06:37:18 +0000"
@@ -2806,6 +2956,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-14 08:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-08-14 00:21:17 +0000"
@@ -2815,6 +2971,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-13 23:33:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
@@ -2845,6 +3007,12 @@
   "create:recipes/create.palettes/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:01:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-08-14 08:01:32 +0000"
     },
     "done": true
   },
@@ -2995,6 +3163,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-13 23:37:53 +0000"
@@ -3004,6 +3178,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-08-14 08:01:32 +0000"
     },
     "done": true
   },
@@ -3070,6 +3250,12 @@
   "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-08-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-08-14 08:00:03 +0000"
     },
     "done": true
   },
@@ -3184,6 +3370,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-08-14 07:03:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
@@ -3310,6 +3502,12 @@
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-08-14 07:07:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-14 08:04:09 +0000"
     },
     "done": true
   },
