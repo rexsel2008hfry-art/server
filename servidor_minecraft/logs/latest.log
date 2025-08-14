@@ -1,36 +1,36 @@
-[14Aug2025 03:39:09.534] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[14Aug2025 03:39:09.537] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[14Aug2025 03:39:12.263] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[14Aug2025 03:39:12.571] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[14Aug2025 03:39:12.572] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[14Aug2025 03:39:12.574] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[14Aug2025 03:39:12.575] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[14Aug2025 03:39:12.747] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[14Aug2025 03:39:12.748] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[14Aug2025 03:39:14.429] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Aug2025 03:39:14.558] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14Aug2025 03:39:15.230] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[14Aug2025 03:39:19.937] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[14Aug2025 03:39:22.591] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[14Aug2025 03:39:23.453] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[14Aug2025 03:39:23.453] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
-[14Aug2025 03:39:23.455] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
-[14Aug2025 03:39:23.993] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[14Aug2025 03:39:23.993] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[14Aug2025 03:39:26.684] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_type / bosses_of_mass_destruction:void_blossom]' to registry
-[14Aug2025 03:39:26.684] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.cerbon.bosses_of_mass_destruction.structure.BMDStructures$$Lambda$9823/0x00007ff33943d3f8@60c57a76' to registry
-[14Aug2025 03:39:26.864] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Aug2025 03:39:26.866] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Aug2025 03:39:26.868] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Aug2025 03:39:27.019] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[14Aug2025 03:39:27.083] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[14Aug2025 03:39:27.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[14Aug2025 03:39:27.571] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[14Aug2025 03:39:27.572] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[14Aug2025 03:39:27.572] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[14Aug2025 03:39:27.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
-[14Aug2025 03:39:27.628] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[14Aug2025 03:39:27.812] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Aug2025 10:52:15.248] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[14Aug2025 10:52:15.252] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[14Aug2025 10:52:15.843] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[14Aug2025 10:52:16.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[14Aug2025 10:52:16.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14Aug2025 10:52:16.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14Aug2025 10:52:16.159] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[14Aug2025 10:52:16.342] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Aug2025 10:52:16.344] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[14Aug2025 10:52:18.078] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Aug2025 10:52:18.127] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Aug2025 10:52:18.677] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[14Aug2025 10:52:23.604] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[14Aug2025 10:52:26.519] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[14Aug2025 10:52:27.511] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[14Aug2025 10:52:27.512] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[14Aug2025 10:52:27.515] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[14Aug2025 10:52:27.896] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[14Aug2025 10:52:27.897] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[14Aug2025 10:52:30.759] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_type / bosses_of_mass_destruction:void_blossom]' to registry
+[14Aug2025 10:52:30.760] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.cerbon.bosses_of_mass_destruction.structure.BMDStructures$$Lambda$9823/0x0000728a6945be98@2412c7ca' to registry
+[14Aug2025 10:52:31.030] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Aug2025 10:52:31.033] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Aug2025 10:52:31.036] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Aug2025 10:52:31.278] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[14Aug2025 10:52:31.384] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[14Aug2025 10:52:31.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[14Aug2025 10:52:31.788] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[14Aug2025 10:52:31.788] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[14Aug2025 10:52:31.788] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[14Aug2025 10:52:31.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-22 Target: null
+[14Aug2025 10:52:31.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[14Aug2025 10:52:31.985] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -45,8 +45,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[14Aug2025 03:39:27.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14Aug2025 03:39:27.843] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Aug2025 10:52:31.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14Aug2025 10:52:32.014] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -61,15 +61,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[14Aug2025 03:39:27.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Aug2025 03:39:28.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[14Aug2025 03:39:30.226] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Aug2025 03:39:31.536] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
-[14Aug2025 03:39:31.537] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
-[14Aug2025 03:39:33.214] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[14Aug2025 03:39:33.263] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[14Aug2025 03:39:33.366] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)] as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)
-[14Aug2025 03:39:34.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ender_hammer
+[14Aug2025 10:52:32.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Aug2025 10:52:32.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[14Aug2025 10:52:33.962] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Aug2025 10:52:35.486] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
+[14Aug2025 10:52:35.486] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
+[14Aug2025 10:52:37.145] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[14Aug2025 10:52:37.185] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Aug2025 10:52:37.247] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)] as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.0.7 MC 1.19.2.jar)
+[14Aug2025 10:52:37.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ender_hammer
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ender_hammer'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.4.2-universal.jar%23150!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.4.2-universal.jar%23150!/:?]
@@ -100,7 +100,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ender_hamm
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[14Aug2025 03:39:34.116] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[14Aug2025 10:52:38.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -136,7 +136,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[14Aug2025 03:39:34.129] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
+[14Aug2025 10:52:38.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -171,7 +171,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[14Aug2025 03:39:34.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
+[14Aug2025 10:52:38.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23145!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -206,7 +206,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[14Aug2025 03:39:34.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[14Aug2025 10:52:38.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:154) ~[forge-1.19.2-43.4.2-universal.jar%23150!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:180) ~[forge-1.19.2-43.4.2-universal.jar%23150!/:?]
@@ -237,705 +237,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[14Aug2025 03:39:34.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[14Aug2025 03:39:34.378] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[14Aug2025 03:39:34.390] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[14Aug2025 03:39:34.452] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[14Aug2025 03:39:34.568] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Aug2025 03:39:34.568] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Aug2025 03:39:34.568] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Aug2025 03:39:34.569] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/ant_arsonist}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Aug2025 03:39:34.611] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[14Aug2025 03:39:34.624] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[14Aug2025 03:39:34.732] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3174 advancements
-[14Aug2025 03:39:35.865] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.261428ms
-[14Aug2025 03:39:35.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[14Aug2025 03:39:35.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Aug2025 03:39:35.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Aug2025 03:39:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Aug2025 03:39:36.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Aug2025 03:39:36.157] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Aug2025 03:39:36.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Aug2025 03:39:36.239] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Aug2025 03:39:36.239] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Aug2025 03:39:36.239] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Aug2025 03:39:36.339] [Server thread/INFO] [configured/]: Loading server configs...
-[14Aug2025 03:39:36.346] [Server thread/INFO] [Framework/]: Loading server configs...
-[14Aug2025 03:39:36.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Aug2025 03:39:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Aug2025 03:39:39.910] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.916] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.917] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.919] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.923] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.926] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:39.932] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:40.235] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:40.408] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Aug2025 03:39:40.687] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:41.192] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Aug2025 03:39:42.432] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:42.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:42.532] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:42.714] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:42.861] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Aug2025 03:39:43.190] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:43.588] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Aug2025 03:39:43.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Aug2025 03:39:43.891] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Aug2025 03:39:44.186] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[14Aug2025 03:39:44.690] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[14Aug2025 03:39:45.186] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[14Aug2025 03:39:45.438] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8753 ms
-[14Aug2025 03:39:45.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.189s)! For help, type "help"
-[14Aug2025 03:39:45.511] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Aug2025 03:39:50.423] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[14Aug2025 03:39:50.619] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@450cac19
-[14Aug2025 03:39:50.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:59677] logged in with entity id 40 at (70.607171099319, 72.0, 1687.7012520121646)
-[14Aug2025 03:39:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 03:39:54.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4149ms or 82 ticks behind
-[14Aug2025 03:40:14.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@993400
-[14Aug2025 03:40:14.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:54321] logged in with entity id 410 at (63.51249998807907, 71.90172412185426, 1699.4453849828342)
-[14Aug2025 03:40:14.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:40:27.145] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d3bc09
-[14Aug2025 03:40:27.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:41603] logged in with entity id 565 at (-227.54150896259162, 106.02442408821369, 2063.358688739057)
-[14Aug2025 03:40:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 03:40:28.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 10.051679682115633,0.6754387601295022,-0.19885460333534866
-[14Aug2025 03:40:34.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27bff516
-[14Aug2025 03:40:34.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:49481] logged in with entity id 838 at (63.70083148725857, 72.0, 1706.2974692613798)
-[14Aug2025 03:40:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 03:40:36.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> sigo vivo
-[14Aug2025 03:40:43.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
-[14Aug2025 03:40:43.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 03:40:44.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
-[14Aug2025 03:40:44.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 03:40:44.942] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[14Aug2025 03:41:01.691] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20cceb5c
-[14Aug2025 03:41:01.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:42951] logged in with entity id 1133 at (63.51249998807907, 71.90172412185426, 1699.4453849828342)
-[14Aug2025 03:41:01.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:41:17.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
-[14Aug2025 03:41:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 03:42:17.193] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24c19ff2
-[14Aug2025 03:42:17.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:32947] logged in with entity id 1532 at (-227.54150896259162, 106.02442408821369, 2063.358688739057)
-[14Aug2025 03:42:17.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 03:42:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to Eduardo171]
-[14Aug2025 03:42:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to Eduardo171]
-[14Aug2025 03:44:12.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58642047
-[14Aug2025 03:44:12.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:34333] logged in with entity id 4774 at (63.51249998807907, 63.317369982641736, 1699.4453849828342)
-[14Aug2025 03:44:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:44:42.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
-[14Aug2025 03:44:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 03:45:15.161] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70ca2f88
-[14Aug2025 03:45:15.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:59529] logged in with entity id 6671 at (63.51249998807907, 64.05840002059936, 1699.981154027203)
-[14Aug2025 03:45:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:45:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vaya mierda
-[14Aug2025 03:45:45.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
-[14Aug2025 03:45:45.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 03:46:20.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20c879f2
-[14Aug2025 03:46:20.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:55077] logged in with entity id 7592 at (63.51249998807907, 64.05840002059936, 1699.981154027203)
-[14Aug2025 03:46:20.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:46:47.845] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a642d46
-[14Aug2025 03:46:47.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:58985] logged in with entity id 7869 at (71.73095608417455, 90.0, 1636.8946356309377)
-[14Aug2025 03:46:47.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
-[14Aug2025 03:46:50.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
-[14Aug2025 03:46:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 03:51:53.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 03:52:16.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@191e2ec0
-[14Aug2025 03:52:16.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.189.172.133:55177] logged in with entity id 11921 at (63.51249998807907, 64.05840002059936, 1699.981154027203)
-[14Aug2025 03:52:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[14Aug2025 03:52:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vale verga
-[14Aug2025 03:52:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> alfin
-[14Aug2025 03:53:55.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 03:53:55.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 03:54:47.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pero es mi cofre
-[14Aug2025 03:55:30.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> has de dia pexsel
-[14Aug2025 03:55:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> edu prestame el cubilete
-[14Aug2025 03:56:17.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> el cubilete edu
-[14Aug2025 03:56:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[14Aug2025 03:56:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> noose
-[14Aug2025 03:56:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ocupas tijeras
-[14Aug2025 03:56:38.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> pvto
-[14Aug2025 03:56:55.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=90, z=1635} BlockPos{x=65, y=89, z=1636}
-[14Aug2025 03:56:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> del culo
-[14Aug2025 03:57:03.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=90, z=1637} BlockPos{x=60, y=89, z=1638}
-[14Aug2025 03:59:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y que me das?
-[14Aug2025 04:01:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo me quiero encontras con un oso para ver si lo puedo domesticar
-[14Aug2025 04:02:21.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[14Aug2025 04:02:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:03:47.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [We Just Want our Hat Back]
-[14Aug2025 04:03:54.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Bone to Pick]
-[14Aug2025 04:04:57.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fa8ab3b
-[14Aug2025 04:04:57.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:41261] logged in with entity id 21861 at (127.2574081032018, 63.0, 1720.046424607355)
-[14Aug2025 04:04:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:06:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es mi casa
-[14Aug2025 04:06:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que haces aca
-[14Aug2025 04:06:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Diamonds!]
-[14Aug2025 04:12:17.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26536, l='ServerLevel[world]', x=-550.50, y=52.00, z=1795.50]
-[14Aug2025 04:14:03.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es mi casa we
-[14Aug2025 04:14:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pipi
-[14Aug2025 04:15:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
-[14Aug2025 04:17:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Tip of the Spear]
-[14Aug2025 04:18:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Will it Come Back?]
-[14Aug2025 04:23:01.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 04:23:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 04:23:14.841] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cf4efbc
-[14Aug2025 04:23:14.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:58115] logged in with entity id 31566 at (31.515549711546523, 63.0, 1712.699999988079)
-[14Aug2025 04:23:14.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 04:23:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a mi hazme una minigun
-[14Aug2025 04:23:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
-[14Aug2025 04:23:36.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Crops of the Wild]
-[14Aug2025 04:24:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> consiguiendolo
-[14Aug2025 04:25:22.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
-[14Aug2025 04:25:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que imbechil tilin
-[14Aug2025 04:25:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tilin tienes un bot en tu chat del twich
-[14Aug2025 04:26:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo :c
-[14Aug2025 04:27:01.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que me encontre una mineshaft
-[14Aug2025 04:27:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> te lo juro, gracias al mapa
-[14Aug2025 04:27:28.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel was kicked for floating too long!
-[14Aug2025 04:27:28.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Flying is not enabled on this server
-[14Aug2025 04:27:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EMILIOSIFUENTES: el eduardo es un putazo
-[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elikernomamahuev: el eduardo es un putazo
-[14Aug2025 04:29:19.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Eduardo171: el eduardo es un putazo
-[14Aug2025 04:29:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to tiliaso_01: el eduardo es un putazo
-[14Aug2025 04:29:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[14Aug2025 04:29:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDD<--[HERE]
-[14Aug2025 04:29:29.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a shinga
-[14Aug2025 04:29:30.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ca6758a
-[14Aug2025 04:29:30.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:43457] logged in with entity id 35631 at (340.0474514563073, 64.25220334025373, 1666.261309881356)
-[14Aug2025 04:29:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:29:42.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel was kicked for floating too long!
-[14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Flying is not enabled on this server
-[14Aug2025 04:29:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:30:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> diganle que se murio para ver si se la cree
-[14Aug2025 04:31:02.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74c222a4
-[14Aug2025 04:31:02.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:39281] logged in with entity id 36748 at (340.0474514563073, 64.25220334025373, 1666.261309881356)
-[14Aug2025 04:31:02.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:31:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
-[14Aug2025 04:31:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
-[14Aug2025 04:31:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported rexsel to EMILIOSIFUENTES
-[14Aug2025 04:31:34.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
-[14Aug2025 04:31:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:31:44.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@768a8f90
-[14Aug2025 04:31:45.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:58913] logged in with entity id 37185 at (62.3673608990558, 90.0, 1656.2091839773504)
-[14Aug2025 04:31:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:33:00.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
-[14Aug2025 04:33:00.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:33:28.754] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@426506e3
-[14Aug2025 04:33:28.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:47433] logged in with entity id 38018 at (60.69999998807907, 90.0, 1645.5038901967814)
-[14Aug2025 04:33:28.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:34:13.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
-[14Aug2025 04:34:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 04:35:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Eduardo171: por feo
-[14Aug2025 04:35:42.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: por feo
-[14Aug2025 04:35:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 04:35:53.713] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59e435a
-[14Aug2025 04:35:53.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:40401] logged in with entity id 39035 at (61.646827257237995, 97.41999998688698, 1649.3442258715618)
-[14Aug2025 04:35:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 04:36:02.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5abd0bd7
-[14Aug2025 04:36:02.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:35149] logged in with entity id 39091 at (-31.354444079896933, 17.0, 1674.1077530583918)
-[14Aug2025 04:36:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 04:36:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> haz de dia pexsel
-[14Aug2025 04:37:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> apura prexsel
-[14Aug2025 04:38:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Enderman
-[14Aug2025 04:39:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Enderman
-[14Aug2025 04:39:59.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:40:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Mine? Mine? Mine?]
-[14Aug2025 04:40:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to EMILIOSIFUENTES]
-[14Aug2025 04:40:55.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:40:58.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:41:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo estoy abajo
-[14Aug2025 04:42:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aver pexsel, mira abajo
-[14Aug2025 04:42:24.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Disconnected
-[14Aug2025 04:42:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
-[14Aug2025 04:42:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya aplane
-[14Aug2025 04:42:28.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:43:19.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no we
-[14Aug2025 04:43:21.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:43:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me duermo
-[14Aug2025 04:43:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pero mira entra mi casita humilde
-[14Aug2025 04:43:52.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:43:53.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:44:01.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Cut Above the Rest]
-[14Aug2025 04:44:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> entra pes
-[14Aug2025 04:44:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[14Aug2025 04:44:05.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yano
-[14Aug2025 04:44:32.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 04:44:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es para mi granjita
-[14Aug2025 04:44:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si quieres te aplano otra cosita
-[14Aug2025 04:46:05.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 5
-[14Aug2025 04:46:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 6
-[14Aug2025 04:46:07.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 7
-[14Aug2025 04:46:09.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 8
-[14Aug2025 04:48:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Cut Above the Rest]
-[14Aug2025 04:49:20.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
-[14Aug2025 04:50:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> verga, se me olvido mi gato
-[14Aug2025 04:50:50.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SpiderChaserHallucination2Entity[''/41070, l='ServerLevel[world]', x=11.40, y=52.19, z=1712.40] died:  suffocated in a wall
-[14Aug2025 04:52:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> viene con final feliz?
-[14Aug2025 04:56:52.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
-[14Aug2025 04:56:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 04:57:01.639] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54b5b1eb
-[14Aug2025 04:57:01.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:38189] logged in with entity id 54766 at (-240.1830692828137, 231.0, 2051.9135665447716)
-[14Aug2025 04:57:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 04:58:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ouchet, aparecio una araña de esas grandes
-[14Aug2025 04:58:23.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
-[14Aug2025 04:58:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 04:59:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a miar
-[14Aug2025 05:00:02.935] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ba0b4b
-[14Aug2025 05:00:02.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:33771] logged in with entity id 55509 at (-241.69999998807907, 231.0, 2055.590463479867)
-[14Aug2025 05:00:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 05:10:04.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
-[14Aug2025 05:10:04.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
-[14Aug2025 05:10:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 05:10:14.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c60bee9
-[14Aug2025 05:10:14.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:39133] logged in with entity id 60314 at (-237.48601796805997, 64.1479610792636, 2044.0792716096346)
-[14Aug2025 05:10:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 05:12:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
-[14Aug2025 05:12:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que poia paso
-[14Aug2025 05:13:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
-[14Aug2025 05:14:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ta madre, aparte de miar me dio chorrillo
-[14Aug2025 05:17:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 withered away whilst fighting Spider Prowler
-[14Aug2025 05:21:28.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 05:21:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 05:22:17.134] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42072881
-[14Aug2025 05:22:17.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:48077] logged in with entity id 63285 at (30.010407733829208, 63.0, 1710.1796620156779)
-[14Aug2025 05:22:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 05:24:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Isn't It Iron Pick]
-[14Aug2025 05:27:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by tiliaso_01
-[14Aug2025 05:27:45.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[14Aug2025 05:29:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Will it Come Back?]
-[14Aug2025 05:31:18.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/66693, l='ServerLevel[world]', x=-85.50, y=49.00, z=2095.50]
-[14Aug2025 05:31:18.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/66695, l='ServerLevel[world]', x=-88.50, y=49.00, z=2096.50]
-[14Aug2025 05:32:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was blown up by Creeper
-[14Aug2025 05:32:33.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
-[14Aug2025 05:32:33.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
-[14Aug2025 05:32:34.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
-[14Aug2025 05:32:34.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
-[14Aug2025 05:32:34.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
-[14Aug2025 05:32:34.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
-[14Aug2025 05:32:35.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
-[14Aug2025 05:32:35.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
-[14Aug2025 05:32:36.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
-[14Aug2025 05:32:37.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
-[14Aug2025 05:32:37.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=114, z=6}
-[14Aug2025 05:32:49.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=6}
-[14Aug2025 05:32:49.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=6}
-[14Aug2025 05:32:50.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
-[14Aug2025 05:32:52.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
-[14Aug2025 05:32:52.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
-[14Aug2025 05:32:54.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
-[14Aug2025 05:32:54.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
-[14Aug2025 05:32:54.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=5}
-[14Aug2025 05:32:54.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=5}
-[14Aug2025 05:32:54.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:54.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:54.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:54.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:55.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:57.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:58.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:58.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:58.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:58.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:58.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:59.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:59.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:59.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:32:59.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:32:59.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=114, z=4}
-[14Aug2025 05:33:00.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=115, z=4}
-[14Aug2025 05:33:00.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[14Aug2025 05:33:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell out of the world
-[14Aug2025 05:33:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Killed tiliaso_01]
-[14Aug2025 05:33:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[14Aug2025 05:33:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Diamonds!]
-[14Aug2025 05:34:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> eu
-[14Aug2025 05:35:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Spider Obstructer
-[14Aug2025 05:35:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Tip of the Spear]
-[14Aug2025 05:35:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Will it Come Back?]
-[14Aug2025 05:36:34.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by elikernomamahuev
-[14Aug2025 05:36:37.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
-[14Aug2025 05:36:37.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
-[14Aug2025 05:36:37.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
-[14Aug2025 05:36:37.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
-[14Aug2025 05:36:37.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
-[14Aug2025 05:36:38.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
-[14Aug2025 05:36:38.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-6}
-[14Aug2025 05:36:38.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-6}
-[14Aug2025 05:36:41.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:41.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:42.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:42.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:42.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:42.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:43.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:43.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:43.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:43.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:44.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:44.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:44.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=117, z=-5}
-[14Aug2025 05:36:44.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=118, z=-5}
-[14Aug2025 05:36:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to Eduardo171]
-[14Aug2025 05:42:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to Eduardo171]
-[14Aug2025 05:42:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 05:42:55.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 was kicked for floating too long!
-[14Aug2025 05:42:55.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Flying is not enabled on this server
-[14Aug2025 05:42:55.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 05:43:01.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4045afb1
-[14Aug2025 05:43:01.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:47673] logged in with entity id 73496 at (-244.72393978081405, 88.23527968815392, 2040.7667238788204)
-[14Aug2025 05:43:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
-[14Aug2025 05:43:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has completed the challenge [Free Willy]
-[14Aug2025 05:43:57.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev withered away whilst fighting Spider Recluse
-[14Aug2025 05:44:07.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp
-[14Aug2025 05:44:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Tip of the Spear]
-[14Aug2025 05:44:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp?
-[14Aug2025 05:44:19.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[14Aug2025 05:44:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 05:44:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y mi pico?
-[14Aug2025 05:44:53.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y mi hacha?
-[14Aug2025 05:45:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set spawn point to -405, 66, 2163 [0.0] in minecraft:overworld for tiliaso_01]
-[14Aug2025 05:45:15.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pasa madera we
-[14Aug2025 05:45:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no tienes hierro para hacerme un pico
-[14Aug2025 05:45:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ?
-[14Aug2025 05:45:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> gracis
-[14Aug2025 05:46:28.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was frozen to death by Frostmaw
-[14Aug2025 05:46:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me dejaste tu basure rexsel
-[14Aug2025 05:46:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 05:47:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was frozen to death by Frostmaw
-[14Aug2025 05:47:48.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 05:48:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
-[14Aug2025 05:48:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
-[14Aug2025 05:48:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 05:48:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Spider Lunger
-[14Aug2025 05:48:58.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=115, z=5}
-[14Aug2025 05:48:59.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
-[14Aug2025 05:48:59.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
-[14Aug2025 05:49:00.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
-[14Aug2025 05:49:01.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
-[14Aug2025 05:49:02.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=116, z=4}
-[14Aug2025 05:49:03.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
-[14Aug2025 05:49:03.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
-[14Aug2025 05:49:04.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
-[14Aug2025 05:49:05.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
-[14Aug2025 05:49:06.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=114, z=4}
-[14Aug2025 05:49:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 05:49:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Spider Lunger
-[14Aug2025 05:49:14.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 05:49:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Spider Lunger
-[14Aug2025 05:49:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:24.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
-[14Aug2025 05:49:27.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 05:49:28.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
-[14Aug2025 05:49:31.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:32.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:33.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:33.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:34.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:35.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:36.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:36.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:36.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
-[14Aug2025 05:49:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 05:49:43.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=118, z=4}
-[14Aug2025 05:49:43.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:44.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=117, z=4}
-[14Aug2025 05:49:56.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:57.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=117, z=4}
-[14Aug2025 05:49:57.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=116, z=4}
-[14Aug2025 05:50:09.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 05:50:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Frostmaw
-[14Aug2025 05:50:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has completed the challenge [Rude Awakening]
-[14Aug2025 05:51:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> exploremos junstos pexsel
-[14Aug2025 05:51:49.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[14Aug2025 05:51:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 05:51:53.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 05:51:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 05:52:28.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Hot Stuff]
-[14Aug2025 05:52:57.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a24100c
-[14Aug2025 05:52:57.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:54601] logged in with entity id 80658 at (-54.218856041436936, -50.0, 1639.9726214677119)
-[14Aug2025 05:52:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 05:54:28.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Disconnected
-[14Aug2025 05:54:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
-[14Aug2025 05:56:17.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[14Aug2025 05:56:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> noveo
-[14Aug2025 05:56:39.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tienes antorchas?
-[14Aug2025 05:56:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> carbon?
-[14Aug2025 05:57:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 05:57:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tp
-[14Aug2025 05:57:26.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> espera
-[14Aug2025 05:57:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aguanta un poco
-[14Aug2025 05:57:34.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 05:57:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> olvidalo, dale tp
-[14Aug2025 05:58:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 05:58:05.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[14Aug2025 05:58:10.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> gracias pes
-[14Aug2025 05:59:22.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es que la tienes a sus pies edu
-[14Aug2025 05:59:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si we
-[14Aug2025 05:59:39.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven
-[14Aug2025 05:59:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 05:59:50.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 05:59:56.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo andesita
-[14Aug2025 06:02:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a buscar un cabalo
-[14Aug2025 06:03:00.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
-[14Aug2025 06:06:12.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [What a Deal!]
-[14Aug2025 06:10:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [The Bender of the 15th Century]
-[14Aug2025 06:11:20.130] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cf34c39
-[14Aug2025 06:11:20.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:43405] logged in with entity id 84540 at (-0.699999988079071, 45.0, 1672.7827586167366)
-[14Aug2025 06:11:20.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 06:11:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 06:12:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Take Aim, Chaps!]
-[14Aug2025 06:12:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Take Aim]
-[14Aug2025 06:14:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Andesite Age]
-[14Aug2025 06:16:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> agua
-[14Aug2025 06:16:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Will it Come Back?]
-[14Aug2025 06:18:50.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> esta baja la rueda
-[14Aug2025 06:19:18.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que vas hacer?
-[14Aug2025 06:20:08.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya si quieres hacer que la rueda se haga rapida tienes que poner un engranaje medio grande al lado de uno pequeño
-[14Aug2025 06:20:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> e we
-[14Aug2025 06:20:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ahi abajo esta mi granja
-[14Aug2025 06:21:24.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[14Aug2025 06:21:34.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si
-[14Aug2025 06:21:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si habia
-[14Aug2025 06:21:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 06:22:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nose pes
-[14Aug2025 06:23:08.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 06:24:39.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 06:24:49.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 06:24:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo ya
-[14Aug2025 06:27:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> apurate pexsel
-[14Aug2025 06:27:52.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca ya encontre uno
-[14Aug2025 06:27:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> listo
-[14Aug2025 06:28:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[14Aug2025 06:28:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> un pico
-[14Aug2025 06:28:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[14Aug2025 06:28:41.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Ice Bucket Challenge]
-[14Aug2025 06:29:03.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cuantos saco
-[14Aug2025 06:32:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Ice Bucket Challenge]
-[14Aug2025 06:32:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 06:32:38.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> esta un poco cuadrado
-[14Aug2025 06:32:43.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 06:33:15.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ayudame a picar esto
-[14Aug2025 06:35:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 06:35:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 06:35:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to rexsel]
-[14Aug2025 06:36:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [We Need to Go Deeper]
-[14Aug2025 06:36:21.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[14Aug2025 06:36:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [We Need to Go Deeper]
-[14Aug2025 06:36:26.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [We Need to Go Deeper]
-[14Aug2025 06:36:38.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[14Aug2025 06:36:38.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 06:37:50.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ef54954
-[14Aug2025 06:37:50.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:60689] logged in with entity id 89214 at (-17.269427959994452, 82.0, 194.19388030115755)
-[14Aug2025 06:37:50.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 06:38:20.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mira una rana
-[14Aug2025 06:38:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> un sapo
-[14Aug2025 06:38:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[14Aug2025 06:41:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no veo nada
-[14Aug2025 06:42:24.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo
-[14Aug2025 06:42:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no
-[14Aug2025 06:43:13.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [It's Teleporting!]
-[14Aug2025 06:43:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ten
-[14Aug2025 06:43:27.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pexsel
-[14Aug2025 06:43:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> guardaron las coords del portal?
-[14Aug2025 06:44:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ira
-[14Aug2025 06:44:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ira
-[14Aug2025 06:44:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que
-[14Aug2025 06:44:26.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no veo
-[14Aug2025 06:44:30.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> hay wey
-[14Aug2025 06:44:35.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es un gusano de lava
-[14Aug2025 06:44:37.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> salta
-[14Aug2025 06:44:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y bien alto
-[14Aug2025 06:45:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no quiero que se queme el loot
-[14Aug2025 06:45:59.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Hidden in the Depths]
-[14Aug2025 06:47:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya
-[14Aug2025 06:47:51.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has completed the challenge [The Soul Eater]
-[14Aug2025 06:48:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Soul Fortress]
-[14Aug2025 06:48:10.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [The Soul Fortress]
-[14Aug2025 06:48:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ala verga
-[14Aug2025 06:48:50.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven rexsel
-[14Aug2025 06:48:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca
-[14Aug2025 06:48:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca salto algo
-[14Aug2025 06:49:02.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ira
-[14Aug2025 06:49:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Oh Shiny]
-[14Aug2025 06:50:41.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> espera
-[14Aug2025 06:50:45.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> deja agarro de esto
-[14Aug2025 06:50:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 06:50:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [The Soul Fortress]
-[14Aug2025 06:52:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Terrible Fortress]
-[14Aug2025 06:52:44.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> 6 75 197
-[14Aug2025 06:52:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [A Terrible Fortress]
-[14Aug2025 06:53:46.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Into Fire]
-[14Aug2025 06:53:50.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Into Fire]
-[14Aug2025 06:59:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> fui a explorar pes
-[14Aug2025 07:00:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Blaze
-[14Aug2025 07:00:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[14Aug2025 07:00:49.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 07:01:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Scorpion Striker
-[14Aug2025 07:01:24.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 9.674278805772417,3.1909013491950162,0.758411070974816
-[14Aug2025 07:01:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que asco
-[14Aug2025 07:01:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me salio justo
-[14Aug2025 07:01:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> estaba cerca del spawn de ese blazes
-[14Aug2025 07:01:53.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 07:01:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si
-[14Aug2025 07:02:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[14Aug2025 07:02:07.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 07:02:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Terrible Fortress]
-[14Aug2025 07:03:53.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Into Fire]
-[14Aug2025 07:05:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aguas
-[14Aug2025 07:05:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca hay un mob que fastidia y empuja mucho
-[14Aug2025 07:05:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mas bien por aca
-[14Aug2025 07:05:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de esos me mato
-[14Aug2025 07:07:15.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel burned to death
-[14Aug2025 07:07:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Hammer Time!]
-[14Aug2025 07:07:24.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 07:08:58.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 07:08:58.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 07:09:38.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7502b969
-[14Aug2025 07:09:38.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:43137] logged in with entity id 103528 at (-4.600951948388672, 67.0, 174.6845569829813)
-[14Aug2025 07:09:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 07:09:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rayos equis
-[14Aug2025 07:10:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xray-rayos equis
-[14Aug2025 07:12:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> estas usando chetos?
-[14Aug2025 07:13:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> 3 stacks
-[14Aug2025 07:13:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 07:13:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
-[14Aug2025 07:14:01.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo 37
-[14Aug2025 07:14:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 07:14:35.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to rexsel]
-[14Aug2025 07:15:03.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo ssi
-[14Aug2025 07:15:23.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> creo que lo agarraron
-[14Aug2025 07:15:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> porque no tengo
-[14Aug2025 07:15:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> hu, yo recuerdo que tenia un pico de diamante que tenia la barrita de durabilidad en amarillo
-[14Aug2025 07:16:00.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a no
-[14Aug2025 07:16:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aca lo tengo
-[14Aug2025 07:16:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tengo 5 diamantes
-[14Aug2025 07:17:02.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Mine? Mine? Mine?]
-[14Aug2025 07:17:25.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> miren
-[14Aug2025 07:17:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> edu, abreme la puerta porfa
-[14Aug2025 07:22:18.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> Encontre a mordecai
-[14Aug2025 07:23:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> son como el ying y el yang
-[14Aug2025 07:23:55.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mira
-[14Aug2025 07:24:20.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! 4.602298311995753,-1.2491870787446828,-8.827888189765645
-[14Aug2025 07:24:24.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
-[14Aug2025 07:24:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 07:24:36.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79824c93
-[14Aug2025 07:24:36.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:50741] logged in with entity id 112012 at (81.72682297607346, 63.0, 1679.2673073589497)
-[14Aug2025 07:24:36.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 07:24:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que rana
-[14Aug2025 07:25:26.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo con 8
-[14Aug2025 07:25:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> de promedio final saque 9
-[14Aug2025 07:25:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya regreso, voy a explorar un poco
-[14Aug2025 07:26:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a shinga
-[14Aug2025 07:26:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> es lo que voy hacer
-[14Aug2025 07:27:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me llevo un mapache para que sea mordecai y rigby?
-[14Aug2025 07:27:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lana pero alrevez
-[14Aug2025 07:28:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> joder tio
-[14Aug2025 07:29:29.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Bonk!]
-[14Aug2025 07:32:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aqui llevo la despensa
-[14Aug2025 07:33:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aver edu
-[14Aug2025 07:33:27.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no nada
-[14Aug2025 07:33:44.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mira
-[14Aug2025 07:37:12.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bueno pes, yo me tengo que ir
-[14Aug2025 07:37:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a dormir
-[14Aug2025 07:37:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo creo que mañana si le voy a viciar un chingo
-[14Aug2025 07:37:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bueno
-[14Aug2025 07:37:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> chao
-[14Aug2025 07:37:28.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
-[14Aug2025 07:37:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[14Aug2025 07:37:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [The Parrots and the Bats]
-[14Aug2025 07:48:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 07:48:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Applied effect Night Vision to Eduardo171]
-[14Aug2025 07:48:59.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 07:50:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 07:50:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 07:52:51.770] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:51.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:51.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.066] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.142] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.734] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:52.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:53.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.569] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:54.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.232] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:52:55.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[14Aug2025 07:55:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 07:55:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
-[14Aug2025 07:55:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 07:57:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 08:01:58.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Brass Age]
-[14Aug2025 08:02:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Bonk!]
-[14Aug2025 08:03:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Hunt and Gather]
-[14Aug2025 08:04:52.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[14Aug2025 08:04:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 08:05:56.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ca10c32
-[14Aug2025 08:05:56.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:50779] logged in with entity id 130599 at (82.68689548770561, 63.0, 1682.9033615287765)
-[14Aug2025 08:05:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 08:21:34.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
-[14Aug2025 08:21:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
-[14Aug2025 08:22:38.435] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11980544
-[14Aug2025 08:22:38.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:59221] logged in with entity id 132932 at (80.30691354082995, 63.0, 1686.326466645893)
-[14Aug2025 08:22:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
-[14Aug2025 08:27:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Desperate Measures]
-[14Aug2025 08:42:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Pair of Giants]
-[14Aug2025 08:45:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was processed by Crushing Wheels
-[14Aug2025 08:45:33.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 08:45:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 08:46:02.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74aca8fb
-[14Aug2025 08:46:02.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:49533] logged in with entity id 136748 at (79.49439656026084, 63.661600000411276, 1682.4943760782803)
-[14Aug2025 08:46:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 08:46:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[14Aug2025 09:07:07.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 09:17:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
-[14Aug2025 09:17:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
-[14Aug2025 09:17:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 09:18:15.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/144134, l='ServerLevel[world]', x=198.50, y=54.00, z=1442.50]
-[14Aug2025 09:20:57.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Parrots and the Bats]
-[14Aug2025 09:31:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
-[14Aug2025 09:31:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[14Aug2025 09:38:23.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 was kicked for floating too long!
-[14Aug2025 09:38:23.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Flying is not enabled on this server
-[14Aug2025 09:38:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 09:38:57.682] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@646d3296
-[14Aug2025 09:38:57.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:46507] logged in with entity id 150825 at (64.7918625305619, 91.16610926093821, 1644.7073574927135)
-[14Aug2025 09:38:57.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 09:39:04.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
-[14Aug2025 09:39:04.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
-[14Aug2025 09:39:46.133] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ba33962
-[14Aug2025 09:39:46.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:58841] logged in with entity id 150941 at (64.7918625305619, 91.16610926093821, 1644.7073574927135)
-[14Aug2025 09:39:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[14Aug2025 09:50:48.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 09:52:13.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 09:54:59.619] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 09:55:39.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[14Aug2025 09:59:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel withered away whilst fighting Spider Recluse
-[14Aug2025 09:59:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 10:52:38.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[14Aug2025 10:52:38.316] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[14Aug2025 10:52:38.328] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[14Aug2025 10:52:38.393] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[14Aug2025 10:52:38.500] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Aug2025 10:52:38.500] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Aug2025 10:52:38.501] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Aug2025 10:52:38.501] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/ant_arsonist}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Aug2025 10:52:38.558] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[14Aug2025 10:52:38.573] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[14Aug2025 10:52:38.695] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3174 advancements
+[14Aug2025 10:52:39.810] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.717118ms
+[14Aug2025 10:52:39.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[14Aug2025 10:52:39.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Aug2025 10:52:39.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Aug2025 10:52:39.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Aug2025 10:52:40.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Aug2025 10:52:40.188] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Aug2025 10:52:40.268] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Aug2025 10:52:40.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Aug2025 10:52:40.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Aug2025 10:52:40.269] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Aug2025 10:52:40.382] [Server thread/INFO] [configured/]: Loading server configs...
+[14Aug2025 10:52:40.391] [Server thread/INFO] [Framework/]: Loading server configs...
+[14Aug2025 10:52:40.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Aug2025 10:52:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Aug2025 10:52:45.011] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.028] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.056] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.070] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.088] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.126] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.145] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.153] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:45.292] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:47.011] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:47.016] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:47.021] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:47.332] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:47.764] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Aug2025 10:52:48.267] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[14Aug2025 10:52:48.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[14Aug2025 10:52:49.082] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8318 ms
+[14Aug2025 10:52:49.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.803s)! For help, type "help"
+[14Aug2025 10:52:49.120] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Aug2025 10:53:07.178] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Aug2025 10:53:07.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8670130
+[14Aug2025 10:53:07.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:47839] logged in with entity id 39 at (81.71763773666318, 64.0, 1680.214187807357)
+[14Aug2025 10:53:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 10:53:09.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[14Aug2025 10:57:35.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[14Aug2025 10:57:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
