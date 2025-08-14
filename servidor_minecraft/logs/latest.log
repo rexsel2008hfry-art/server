@@ -711,3 +711,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 06:28:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
 [14Aug2025 06:28:41.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Ice Bucket Challenge]
 [14Aug2025 06:29:03.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cuantos saco
+[14Aug2025 06:32:22.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Ice Bucket Challenge]
+[14Aug2025 06:32:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 06:32:38.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> esta un poco cuadrado
+[14Aug2025 06:32:43.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 06:33:15.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ayudame a picar esto
+[14Aug2025 06:35:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[14Aug2025 06:35:21.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 06:35:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported 3 entities to rexsel]
+[14Aug2025 06:36:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [We Need to Go Deeper]
+[14Aug2025 06:36:21.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14Aug2025 06:36:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [We Need to Go Deeper]
+[14Aug2025 06:36:26.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [We Need to Go Deeper]
+[14Aug2025 06:36:38.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[14Aug2025 06:36:38.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[14Aug2025 06:37:50.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ef54954
+[14Aug2025 06:37:50.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.55.205.9:60689] logged in with entity id 89214 at (-17.269427959994452, 82.0, 194.19388030115755)
+[14Aug2025 06:37:50.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[14Aug2025 06:38:20.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> mira una rana
+[14Aug2025 06:38:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> un sapo
+[14Aug2025 06:38:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[14Aug2025 06:41:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no veo nada
