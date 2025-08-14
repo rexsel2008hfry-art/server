@@ -914,3 +914,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 08:46:02.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:49533] logged in with entity id 136748 at (79.49439656026084, 63.661600000411276, 1682.4943760782803)
 [14Aug2025 08:46:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [14Aug2025 08:46:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[14Aug2025 09:07:07.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[14Aug2025 09:17:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[14Aug2025 09:17:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[14Aug2025 09:17:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[14Aug2025 09:18:15.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/144134, l='ServerLevel[world]', x=198.50, y=54.00, z=1442.50]
+[14Aug2025 09:20:57.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [The Parrots and the Bats]
+[14Aug2025 09:31:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[14Aug2025 09:31:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
