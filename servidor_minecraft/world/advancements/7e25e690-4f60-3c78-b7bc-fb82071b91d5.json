@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-14 22:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-14 04:09:24 +0000"
@@ -3376,17 +3382,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-08-14 06:53:45 +0000",
+      "minecraft:pillager": "2025-08-14 22:46:51 +0000",
       "minecraft:skeleton": "2025-08-14 02:50:39 +0000",
       "minecraft:magma_cube": "2025-08-14 06:40:21 +0000",
       "minecraft:spider": "2025-08-14 02:52:10 +0000",
       "minecraft:creeper": "2025-08-14 06:14:46 +0000",
+      "minecraft:phantom": "2025-08-14 22:38:05 +0000",
       "minecraft:zombified_piglin": "2025-08-14 06:48:19 +0000",
       "minecraft:wither_skeleton": "2025-08-14 06:52:58 +0000",
       "minecraft:cave_spider": "2025-08-14 03:13:44 +0000",
       "minecraft:piglin": "2025-08-14 06:50:16 +0000",
       "minecraft:enderman": "2025-08-13 23:21:16 +0000",
       "minecraft:zombie": "2025-08-13 23:20:05 +0000",
-      "minecraft:drowned": "2025-08-14 02:54:04 +0000"
+      "minecraft:drowned": "2025-08-14 02:54:04 +0000",
+      "minecraft:zombie_villager": "2025-08-14 22:34:59 +0000"
     },
     "done": false
   },
@@ -3417,6 +3426,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-14 04:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-14 22:46:51 +0000"
     },
     "done": true
   },
@@ -3922,7 +3937,9 @@
       "minecraft:forest": "2025-08-13 22:13:21 +0000",
       "minecraft:frozen_ocean": "2025-08-13 21:27:05 +0000",
       "minecraft:windswept_forest": "2025-08-13 23:19:18 +0000",
-      "minecraft:snowy_beach": "2025-08-14 02:51:47 +0000"
+      "minecraft:snowy_beach": "2025-08-14 02:51:47 +0000",
+      "minecraft:meadow": "2025-08-14 22:36:55 +0000",
+      "minecraft:plains": "2025-08-14 22:32:09 +0000"
     },
     "done": false
   },
@@ -4280,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-14 22:33:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2025-08-13 22:55:52 +0000"
@@ -4432,6 +4455,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-08-14 05:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-14 22:33:35 +0000"
     },
     "done": true
   },
@@ -4862,6 +4891,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-14 22:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-08-14 06:52:50 +0000"
@@ -4961,6 +4996,12 @@
   "create:recipes/create.palettes/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 00:03:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-08-14 22:33:35 +0000"
     },
     "done": true
   },
@@ -5069,6 +5110,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-13 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-14 22:48:01 +0000"
     },
     "done": true
   },
@@ -5243,6 +5290,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 04:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-14 22:48:01 +0000"
     },
     "done": true
   },

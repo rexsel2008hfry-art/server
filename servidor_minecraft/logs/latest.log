@@ -309,3 +309,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [14Aug2025 21:53:53.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tienen un chingo pes
 [14Aug2025 21:57:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no son las ovejas
 [14Aug2025 21:58:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> listo
+[14Aug2025 22:01:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> oye we, se pueden hacer mas armas espartanas con otros minerales diferentes
+[14Aug2025 22:01:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ?
+[14Aug2025 22:01:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo quiero hacer uno que es de platino
+[14Aug2025 22:02:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> supongo que se te olvido poner el mod de minerales
+[14Aug2025 22:02:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ese
+[14Aug2025 22:07:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo pexsel, aparte nomas te digo que creo que si se ocupa otro mod de minerales ya que todos fuimos a la mina y no encontramos esos minerales
+[14Aug2025 22:07:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
+[14Aug2025 22:22:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ontas pexsel
+[14Aug2025 22:24:43.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a buscar animales pexsel
+[14Aug2025 22:24:45.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> o a explorar
+[14Aug2025 22:25:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo te digo tp ya que me voy a ir lejos
+[14Aug2025 22:26:31.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> huy puta pexsel, se te olvido poner el mod ese de las dungeons pe
+[14Aug2025 22:26:48.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vale yopo
+[14Aug2025 22:27:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pero poniendo el mod ese de las dungeons, tendrias que reiniciar el mundo?
+[14Aug2025 22:28:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vale yopo
+[14Aug2025 22:31:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Solifuge Skulker
+[14Aug2025 22:32:24.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> un bisonte
+[14Aug2025 22:34:41.634] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26ba1bba
+[14Aug2025 22:34:41.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/127.100.100.92:54381] logged in with entity id 20502 at (-240.83110230253814, 231.0, 2052.0252823167434)
+[14Aug2025 22:34:41.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[14Aug2025 22:34:44.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[14Aug2025 22:35:29.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 moved too quickly! 0.40294976130610394,-10.277411153802234,0.36300343860716566
+[14Aug2025 22:37:48.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> encontre monos
+[14Aug2025 22:40:03.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[14Aug2025 22:40:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[14Aug2025 22:44:27.326] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44743a70
+[14Aug2025 22:44:27.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.31.104.61:52617] logged in with entity id 25593 at (-765.3750375743855, 96.525, 1218.625931988793)
+[14Aug2025 22:44:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[14Aug2025 22:44:29.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[14Aug2025 22:46:51.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Voluntary Exile]
+[14Aug2025 22:50:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Crops of the Wild]
