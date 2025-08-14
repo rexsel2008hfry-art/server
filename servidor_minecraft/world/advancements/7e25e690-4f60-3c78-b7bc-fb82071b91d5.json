@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 23:17:05 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-08-14 00:31:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-14 06:59:19 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-08-14 06:49:59 +0000"
     },
     "done": true
   },
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-08-13 21:48:43 +0000"
@@ -530,6 +554,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -2107,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-08-14 04:57:26 +0000"
@@ -2413,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-14 06:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-13 23:08:53 +0000"
@@ -2551,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-14 03:11:13 +0000"
@@ -2590,6 +2638,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
     },
     "done": true
   },
@@ -2698,6 +2752,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -2842,6 +2908,12 @@
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
     },
     "done": true
   },
@@ -3255,12 +3327,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-14 06:53:45 +0000",
       "minecraft:skeleton": "2025-08-14 02:50:39 +0000",
       "minecraft:magma_cube": "2025-08-14 06:40:21 +0000",
       "minecraft:spider": "2025-08-14 02:52:10 +0000",
       "minecraft:creeper": "2025-08-14 06:14:46 +0000",
       "minecraft:zombified_piglin": "2025-08-14 06:48:19 +0000",
+      "minecraft:wither_skeleton": "2025-08-14 06:52:58 +0000",
       "minecraft:cave_spider": "2025-08-14 03:13:44 +0000",
+      "minecraft:piglin": "2025-08-14 06:50:16 +0000",
       "minecraft:enderman": "2025-08-13 23:21:16 +0000",
       "minecraft:zombie": "2025-08-13 23:20:05 +0000",
       "minecraft:drowned": "2025-08-14 02:54:04 +0000"
@@ -3336,6 +3411,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 04:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -3417,6 +3498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-14 06:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 23:17:05 +0000"
@@ -3462,6 +3549,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2025-08-13 21:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -3516,6 +3609,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-13 21:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
     },
     "done": true
   },
@@ -3576,6 +3675,12 @@
   "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-13 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-14 06:51:04 +0000"
     },
     "done": true
   },
@@ -3672,6 +3777,12 @@
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-08-13 21:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -4040,6 +4151,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-14 00:10:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-14 06:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
@@ -4420,6 +4543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-14 06:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-13 22:36:13 +0000"
@@ -4540,6 +4669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-14 06:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-13 21:27:05 +0000"
@@ -4645,6 +4780,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 23:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-14 06:52:50 +0000"
     },
     "done": true
   },
@@ -4792,6 +4933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-14 06:53:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-08-13 22:36:13 +0000"
@@ -4843,6 +4990,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-13 23:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-14 06:55:30 +0000"
     },
     "done": true
   },
