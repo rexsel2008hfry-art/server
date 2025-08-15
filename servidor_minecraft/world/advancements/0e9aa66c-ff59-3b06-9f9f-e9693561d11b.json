@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-14 02:28:41 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-14 02:25:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -344,6 +356,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2025-08-14 02:23:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -578,6 +596,18 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-08-15 00:07:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -884,6 +914,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-14 02:44:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -1469,6 +1505,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-08-14 04:03:47 +0000"
@@ -1496,6 +1538,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -1751,6 +1799,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-15 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-08-14 03:02:26 +0000"
@@ -1760,6 +1820,12 @@
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-14 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -1790,6 +1856,12 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-08-14 05:43:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -1859,6 +1931,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
     "criteria": {
       "has_bow": "2025-08-14 03:27:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -2084,6 +2162,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-08-15 02:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:warped_forest": "2025-08-14 23:08:04 +0000"
@@ -2177,6 +2261,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2025-08-14 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -2402,6 +2492,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-14 02:24:01 +0000"
@@ -2474,9 +2570,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-14 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -2513,6 +2621,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-14 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -2604,6 +2718,7 @@
       "apple": "2025-08-14 03:45:12 +0000",
       "potato": "2025-08-14 02:40:57 +0000",
       "bread": "2025-08-14 03:58:36 +0000",
+      "golden_apple": "2025-08-15 02:36:41 +0000",
       "beetroot": "2025-08-14 23:38:36 +0000",
       "carrot": "2025-08-14 04:34:47 +0000"
     },
@@ -2720,6 +2835,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-08-14 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -3074,6 +3195,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-14 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-08-15 02:32:44 +0000"
     },
     "done": true
   },
@@ -3530,6 +3657,18 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-14 23:33:52 +0000"
@@ -3575,6 +3714,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -3644,9 +3789,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-08-15 02:40:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2025-08-14 02:30:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -3659,6 +3822,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-08-14 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -3767,6 +3936,12 @@
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-08-14 05:35:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-15 02:31:15 +0000"
     },
     "done": true
   },
@@ -3962,6 +4137,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2025-08-15 02:53:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-08-14 03:17:14 +0000"
@@ -4154,6 +4335,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-08-15 02:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-08-14 02:22:05 +0000"
@@ -4175,6 +4362,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-14 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },
@@ -4244,6 +4437,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-08-14 22:46:10 +0000"
@@ -4301,6 +4500,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-08-14 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:41:16 +0000"
     },
     "done": true
   },

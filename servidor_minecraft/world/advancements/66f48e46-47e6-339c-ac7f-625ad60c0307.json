@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_quarterstaff": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 22:40:56 +0000"
@@ -116,6 +128,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-14 00:37:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -269,6 +299,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -293,6 +329,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-08-14 06:01:14 +0000"
@@ -314,6 +362,18 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-13 22:57:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -353,6 +413,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-13 22:57:23 +0000"
@@ -368,6 +434,12 @@
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-13 23:03:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -515,6 +587,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-14 00:19:05 +0000"
@@ -530,6 +608,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -713,9 +797,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate": {
+    "criteria": {
+      "has_item": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-08-14 06:01:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -752,6 +854,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -857,6 +965,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-08-13 22:52:41 +0000"
@@ -899,9 +1013,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -959,6 +1085,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
@@ -968,6 +1106,12 @@
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 02:08:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -1073,6 +1217,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 00:24:06 +0000"
@@ -1157,6 +1307,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-13 23:59:38 +0000"
@@ -1214,6 +1376,12 @@
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-08-14 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -1304,6 +1472,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-14 00:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -1429,15 +1603,33 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-08-14 06:01:14 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
     },
     "done": true
   },
@@ -1471,6 +1663,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 22:40:56 +0000"
@@ -1480,6 +1678,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-08-14 05:44:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -1498,6 +1702,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-08-13 23:03:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -1561,6 +1771,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -1582,6 +1798,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -1609,6 +1831,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-08-15 02:35:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
     "criteria": {
       "has_feather": "2025-08-13 22:46:56 +0000"
@@ -1624,6 +1852,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -1651,6 +1885,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 00:02:38 +0000"
@@ -1660,6 +1900,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-08-14 00:17:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -1735,6 +1981,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-13 22:46:03 +0000"
@@ -1756,6 +2008,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -1807,6 +2071,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
@@ -1840,6 +2110,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-14 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -2053,6 +2329,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-08-14 06:14:12 +0000"
@@ -2095,6 +2377,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 00:02:38 +0000"
@@ -2125,6 +2413,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
@@ -2143,9 +2437,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-08-15 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-13 22:57:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -2209,6 +2521,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-08-13 21:19:32 +0000"
@@ -2236,6 +2554,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-13 22:47:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
     },
     "done": true
   },
@@ -2302,6 +2626,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-13 22:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -2425,6 +2755,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 02:08:37 +0000"
@@ -2470,6 +2806,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-14 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
     },
     "done": true
   },
@@ -2545,6 +2887,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-14 07:06:15 +0000"
@@ -2575,6 +2923,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
@@ -2584,6 +2938,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-08-14 04:39:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -2629,9 +2989,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-08-13 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-15 02:30:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
     },
     "done": true
   },
@@ -2668,6 +3052,12 @@
   "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-08-13 22:58:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -2737,6 +3127,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -2758,6 +3154,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -2821,6 +3223,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
@@ -2857,6 +3265,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-08-14 02:32:18 +0000"
@@ -2878,6 +3292,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -2935,6 +3355,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
@@ -2950,6 +3376,12 @@
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -2974,6 +3406,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-14 06:23:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -3019,6 +3457,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-08-14 03:46:55 +0000"
@@ -3040,6 +3484,12 @@
   "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-08-14 06:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -3109,6 +3559,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-13 22:51:18 +0000"
@@ -3136,6 +3592,12 @@
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -3221,6 +3683,12 @@
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-08-14 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -3314,6 +3782,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-08-13 22:47:05 +0000"
@@ -3350,6 +3824,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-14 00:02:38 +0000"
@@ -3362,15 +3842,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-13 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -3476,6 +3974,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -3536,6 +4040,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-08-14 08:02:00 +0000"
@@ -3554,6 +4064,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate": {
+    "criteria": {
+      "has_block": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-08-14 02:08:37 +0000"
@@ -3569,6 +4085,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-14 21:33:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
     },
     "done": true
   },
@@ -3605,6 +4127,12 @@
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-08-14 07:31:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-08-15 02:50:07 +0000"
     },
     "done": true
   },
@@ -3647,6 +4175,18 @@
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-14 00:34:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -3695,6 +4235,12 @@
   "create:recipes/create.palettes/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-08-14 07:06:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
     },
     "done": true
   },
@@ -3836,6 +4382,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-13 22:28:49 +0000"
@@ -3857,6 +4409,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-08-14 03:47:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -3918,6 +4476,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-14 07:15:31 +0000"
@@ -3960,6 +4524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-13 22:59:44 +0000"
@@ -3978,6 +4548,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-08-14 06:01:14 +0000"
@@ -3987,6 +4563,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-08-15 02:50:07 +0000"
     },
     "done": true
   },
@@ -4056,9 +4638,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-08-13 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
     },
     "done": true
   },
@@ -4071,6 +4665,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -4152,6 +4752,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -4176,6 +4782,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
@@ -4191,6 +4803,12 @@
   "create:crafter_lazy_000": {
     "criteria": {
       "0": "2025-08-14 08:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -4230,15 +4848,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-14 05:13:49 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_bricks_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-13 22:40:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -4269,6 +4905,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
     },
     "done": true
   },
@@ -4317,6 +4959,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -4446,9 +5094,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-08-13 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -4461,6 +5121,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-15 02:30:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_wall": {
+    "criteria": {
+      "has_block": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -4482,9 +5154,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-08-14 04:40:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -4497,6 +5181,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -4550,6 +5240,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tile_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -4643,9 +5339,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-08-14 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -4703,6 +5411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-14 00:20:45 +0000"
@@ -4742,6 +5456,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
     "criteria": {
       "has_wood": "2025-08-13 22:28:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -4793,9 +5513,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2025-08-15 02:36:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_andesite_slab": {
     "criteria": {
       "has_polished_cut_andesite": "2025-08-14 01:47:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -4808,6 +5540,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-08-14 07:56:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -4841,6 +5579,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-13 22:28:50 +0000"
@@ -4859,6 +5609,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-13 22:40:56 +0000"
@@ -4868,6 +5624,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-13 23:03:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_slab": {
+    "criteria": {
+      "has_block": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -4937,6 +5699,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -4946,6 +5714,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -4979,9 +5753,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-14 06:38:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -5009,9 +5795,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "create:compacting": {
     "criteria": {
       "0": "2025-08-14 12:59:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -5064,6 +5862,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 23:12:46 +0000"
@@ -5094,6 +5904,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-14 03:46:55 +0000"
@@ -5103,6 +5919,24 @@
   "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -5223,6 +6057,12 @@
   "create:recipes/create.base/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -5376,6 +6216,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -5394,6 +6240,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
@@ -5409,6 +6261,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-08-13 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
     },
     "done": true
   },
@@ -5466,9 +6324,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-08-14 00:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
     },
     "done": true
   },
@@ -5481,6 +6351,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-13 22:59:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-08-15 02:33:57 +0000"
     },
     "done": true
   },
@@ -5580,6 +6456,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-08-15 02:50:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-08-14 03:13:14 +0000",
@@ -5593,9 +6475,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-13 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -5614,6 +6514,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-08-13 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -5653,9 +6559,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_deepslate_brick_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-08-15 02:38:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-08-14 08:02:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -5689,15 +6607,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-08-15 02:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-14 06:38:06 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-13 23:03:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
@@ -5839,6 +6781,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-08-15 02:33:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-08-14 06:14:15 +0000"
@@ -5917,6 +6865,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-14 03:46:55 +0000"
@@ -5956,6 +6910,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-14 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
     },
     "done": true
   },
@@ -6022,6 +6982,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-14 05:49:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-08-15 02:31:33 +0000"
     },
     "done": true
   },
@@ -6115,6 +7081,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-15 02:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-08-13 22:36:43 +0000"
@@ -6157,6 +7129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-08-15 02:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-08-14 06:15:08 +0000"
@@ -6184,6 +7162,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-08-13 22:35:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-08-15 02:31:29 +0000"
     },
     "done": true
   },
