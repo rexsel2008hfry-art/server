@@ -3141,9 +3141,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-08-14 23:32:36 +0000",
       "1": "2025-08-14 10:40:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
@@ -4618,6 +4619,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-15 01:44:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-08-13 23:59:38 +0000"
@@ -4741,6 +4748,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-08-14 08:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-08-15 01:02:20 +0000"
     },
     "done": true
   },
@@ -5037,6 +5050,7 @@
       "cooked_porkchop": "2025-08-13 23:45:45 +0000",
       "cooked_mutton": "2025-08-13 23:23:37 +0000",
       "sweet_berries": "2025-08-13 22:38:08 +0000",
+      "cooked_beef": "2025-08-15 01:18:51 +0000",
       "baked_potato": "2025-08-14 02:32:24 +0000",
       "bread": "2025-08-13 22:48:07 +0000",
       "rotten_flesh": "2025-08-14 01:21:40 +0000",
@@ -5272,6 +5286,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-08-14 23:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-08-13 22:44:06 +0000"
@@ -5311,6 +5331,12 @@
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-08-13 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-08-15 01:24:49 +0000"
     },
     "done": true
   },
